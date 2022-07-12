@@ -1,0 +1,14 @@
+Loop Truncado
+
+
+O que é CMOS? O semicondutor de óxido metálico complementar (CMOS — Complementary metal-oxide-semiconductor) 
+é uma pequena quantidade de memória em uma placa-mãe do computador que armazena as configurações do BIOS
+(Basic Input/Output System — Sistema Básico de Entrada/Saída).
+CMOS
+Complementary metal–oxide–semiconductor, mais conhecido pelo seu nome comercial CMOS,
+também sendo nomeado como complementary-symmetry metal–oxide–semiconductor, em português metal-óxido-semicondutor complementar 
+e metal-óxido-semicondutor de simetria complementar.
+
+Função modular
+O módulo ou valor absoluto de um número real a é o seu valor numérico absoluto, ou seja, desconsiderando-se seu sinal.
+Está associado à ideia de distância de um ponto até sua origem, ou seja, a sua magnitude.

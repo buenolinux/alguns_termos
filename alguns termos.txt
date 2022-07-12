@@ -12,3 +12,6 @@ e metal-óxido-semicondutor de simetria complementar.
 Função modular
 O módulo ou valor absoluto de um número real a é o seu valor numérico absoluto, ou seja, desconsiderando-se seu sinal.
 Está associado à ideia de distância de um ponto até sua origem, ou seja, a sua magnitude.
+
+Stakeholder
+Stakeholder, é um dos termos utilizados em diversas áreas como gestão de projetos, comunicação social administração e arquitetura de software referente às partes interessadas que devem estar de acordo com as práticas de governança corporativa executadas pela empresa.

@@ -18,3 +18,6 @@ Stakeholder, é um dos termos utilizados em diversas áreas como gestão de proj
 
 Backlog
 Backlog refere-se a um log de acumulação de trabalho num determinado intervalo de tempo. Backlog é uma espécie de estoque de folhas de requisições/encomendas relativas a produtos ainda não produzidos. Grosso modo, backlog é uma "pilha de pedidos" em espera.
+
+Build
+Build, no contexto do desenvolvimento de software, é uma versão "compilada" de um software ou parte dele que contém um conjunto de recursos que poderão integrar o produto final.

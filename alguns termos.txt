@@ -15,3 +15,6 @@ Está associado à ideia de distância de um ponto até sua origem, ou seja, a s
 
 Stakeholder
 Stakeholder, é um dos termos utilizados em diversas áreas como gestão de projetos, comunicação social administração e arquitetura de software referente às partes interessadas que devem estar de acordo com as práticas de governança corporativa executadas pela empresa.
+
+Backlog
+Backlog refere-se a um log de acumulação de trabalho num determinado intervalo de tempo. Backlog é uma espécie de estoque de folhas de requisições/encomendas relativas a produtos ainda não produzidos. Grosso modo, backlog é uma "pilha de pedidos" em espera.

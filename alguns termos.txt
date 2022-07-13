@@ -21,3 +21,6 @@ Backlog refere-se a um log de acumulação de trabalho num determinado intervalo
 
 Build
 Build, no contexto do desenvolvimento de software, é uma versão "compilada" de um software ou parte dele que contém um conjunto de recursos que poderão integrar o produto final.
+
+
+Crise do software
